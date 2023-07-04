@@ -7,7 +7,7 @@ using Microsoft.AspNetCore.Mvc;
 namespace DotNetAsposeSample.Controllers
 {
     /// <summary>
-    /// PDF変換・マージコントローラ
+    /// PDF変換コントローラ
     /// </summary>
     [Route("api/[controller]")]
     [ApiController]
